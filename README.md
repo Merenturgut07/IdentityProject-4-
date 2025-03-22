@@ -54,3 +54,8 @@ Bu projeyi geliştirirken N-Tier Architecture (Katmanlı Mimari) prensiplerine t
 ![Image](https://github.com/user-attachments/assets/b8ac3fcc-11a4-4e80-b08e-04e03f3bccd4)
 ![Image](https://github.com/user-attachments/assets/dfc48432-d812-4cf5-8485-0b20aeecbfda)
 
+### Bütün Mesajlar Bölümü
+Bu alanı sadece admin yetkisine sahip kullanıcı görebilmektedir.
+![Image](https://github.com/user-attachments/assets/34a0730e-f961-4503-9c17-ff79c86248ec)
+![Image](https://github.com/user-attachments/assets/bc715696-1b6d-45a0-b697-70ffad2803d7)
+
