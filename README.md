@@ -34,6 +34,13 @@ Bu projeyi geliştirirken N-Tier Architecture (Katmanlı Mimari) prensiplerine t
 ### Giriş Yapma Ve Kayıt Olma İşlemleri
 ![Image](https://github.com/user-attachments/assets/3dcb4b08-6522-455f-ac67-749af730162f)
 ![Image](https://github.com/user-attachments/assets/7dd30970-c976-4bd4-882c-953e334b7e64)
- 
 
 
+ ### Dashboard 
+ _Sisteme Giriş Yapan Kullanıcının Bilgileriyle Geliyor
+
+![Skydash Admin ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 22 03 2025 15_15_38](https://github.com/user-attachments/assets/78ae46fc-1dc7-4100-8fd2-98ed2aec7e02)
+![Skydash Admin - Profil 1 - Microsoft​ Edge 22 03 2025 15_20_45](https://github.com/user-attachments/assets/754f4997-ed8e-4a68-baf7-4f959dd7af3e)
+![Skydash Admin ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 22 03 2025 15_16_21](https://github.com/user-attachments/assets/e85bec44-50fd-4cec-8687-43c73a32f90a)
+![Skydash Admin ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 22 03 2025 15_16_14](https://github.com/user-attachments/assets/a0c60bf0-cc32-4f71-9a71-461f80a38a26)
+![Skydash Admin ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 22 03 2025 15_16_07](https://github.com/user-attachments/assets/f8776e0b-e275-4d89-b089-1e624e14316e)
