@@ -3,7 +3,7 @@
 Yazılım geliştirme sürecimde, MY YAZILIM EĞİTİM AKADEMİ DANIŞMANLIK bünyesinde, Murat Yücedağ öncülüğünde gerçekleştirdiğim dördüncü proje olan Identity Mail projesini başarıyla tamamladım. Bu proje, kullanıcı kimlik doğrulama ve yetkilendirme süreçlerini yönetmek için ASP.NET Core Identity kütüphanesi temel alınarak geliştirilmiştir.
 
 ##  Proje Senaryosu
-Bu projede kullanıcılar: E-posta adresleriyle sisteme kayıt olabilir, Giriş yaparak diğer kayıtlı kullanıcılarla mesajlaşabilir, Şifrelerini sıfırlayabilir ve değiştirebilir, LockOutEnable özelliği sayesinde belirli sayıda hatalı giriş denemesinden sonra sistem tarafından engellenebilir.
+Bu projede kullanıcılar:  sisteme kayıt olabilir, Giriş yaparak diğer kayıtlı kullanıcılarla mesajlaşabilir, Şifrelerini sıfırlayabilir ve değiştirebilir, LockOutEnable özelliği sayesinde belirli sayıda hatalı giriş denemesinden sonra sistem tarafından engellenebilir.
 
 ## Güvenlik ve Kimlik Doğrulama Özellikleri
 Projenin en önemli yapı taşlarından biri olan ASP.NET Core Identity kütüphanesi sayesinde şu özellikler başarıyla entegre edilmiştir:
