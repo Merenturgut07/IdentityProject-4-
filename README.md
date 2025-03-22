@@ -23,9 +23,7 @@ LINQ Sorguları
 Async Programming
 
 ## Kullanılan  Mimari
-
 Bu projeyi geliştirirken N-Tier Architecture (Katmanlı Mimari) prensiplerine tam anlamıyla uyuldu. Proje, 4 ana katmandan oluşmaktadır:
-
  Entity Layer: Veritabanı tablolarını temsil eden entity sınıflarını içerir.
  DataAccess Layer: Veritabanı işlemlerini yönetir ve Repository Design Pattern uygulanarak kodun daha modüler ve sürdürülebilir olmasını sağlar.
  Business Layer: İş mantığını kapsar ve Fluent Validation kullanarak veri doğrulama işlemlerini gerçekleştirir.
@@ -35,7 +33,6 @@ Bu projeyi geliştirirken N-Tier Architecture (Katmanlı Mimari) prensiplerine t
 ### Giriş Yapma Ve Kayıt Olma İşlemleri
 ![Image](https://github.com/user-attachments/assets/3dcb4b08-6522-455f-ac67-749af730162f)
 ![Image](https://github.com/user-attachments/assets/7dd30970-c976-4bd4-882c-953e334b7e64)
-
 <br/>
 <br/>
  ### Dashboard 
@@ -49,7 +46,6 @@ Bu projeyi geliştirirken N-Tier Architecture (Katmanlı Mimari) prensiplerine t
 <br/>
 ### Profilim 
 ![Image](https://github.com/user-attachments/assets/1ab93967-d117-4f27-94b4-11cbf2f1a894)
-
 <br/>
 <br/>
 ### Mesajlaşma İşlemi, Yeni Mesaj Gönderme İşlemi
