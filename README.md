@@ -30,12 +30,14 @@ Bu projeyi geliştirirken N-Tier Architecture (Katmanlı Mimari) prensiplerine t
  DataAccess Layer: Veritabanı işlemlerini yönetir ve Repository Design Pattern uygulanarak kodun daha modüler ve sürdürülebilir olmasını sağlar.
  Business Layer: İş mantığını kapsar ve Fluent Validation kullanarak veri doğrulama işlemlerini gerçekleştirir.
  Web UI: HTML, CSS ve Bootstrap kullanılarak geliştirilen arayüz, kullanıcı dostu bir deneyim sunmaktadır.
-
+<br/>
+<br/>
 ### Giriş Yapma Ve Kayıt Olma İşlemleri
 ![Image](https://github.com/user-attachments/assets/3dcb4b08-6522-455f-ac67-749af730162f)
 ![Image](https://github.com/user-attachments/assets/7dd30970-c976-4bd4-882c-953e334b7e64)
 
-
+<br/>
+<br/>
  ### Dashboard 
  _Sisteme Giriş Yapan Kullanıcının Bilgileriyle Geliyor
 ![Skydash Admin ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 22 03 2025 15_16_07](https://github.com/user-attachments/assets/f8776e0b-e275-4d89-b089-1e624e14316e)
@@ -43,10 +45,13 @@ Bu projeyi geliştirirken N-Tier Architecture (Katmanlı Mimari) prensiplerine t
 ![Skydash Admin - Profil 1 - Microsoft​ Edge 22 03 2025 15_20_45](https://github.com/user-attachments/assets/754f4997-ed8e-4a68-baf7-4f959dd7af3e)
 ![Skydash Admin ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 22 03 2025 15_16_21](https://github.com/user-attachments/assets/e85bec44-50fd-4cec-8687-43c73a32f90a)
 ![Skydash Admin ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 22 03 2025 15_16_14](https://github.com/user-attachments/assets/a0c60bf0-cc32-4f71-9a71-461f80a38a26)
-
+<br/>
+<br/>
 ### Profilim 
 ![Image](https://github.com/user-attachments/assets/1ab93967-d117-4f27-94b4-11cbf2f1a894)
 
+<br/>
+<br/>
 ### Mesajlaşma İşlemi, Yeni Mesaj Gönderme İşlemi
 ![Image](https://github.com/user-attachments/assets/21972e8a-9f40-4423-8cf1-a819cc4acedb)
 ![Image](https://github.com/user-attachments/assets/21d1568c-2a11-4681-8de1-49b73969e296)
