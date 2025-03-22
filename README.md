@@ -44,3 +44,12 @@ Bu projeyi geliştirirken N-Tier Architecture (Katmanlı Mimari) prensiplerine t
 ![Skydash Admin ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 22 03 2025 15_16_21](https://github.com/user-attachments/assets/e85bec44-50fd-4cec-8687-43c73a32f90a)
 ![Skydash Admin ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 22 03 2025 15_16_14](https://github.com/user-attachments/assets/a0c60bf0-cc32-4f71-9a71-461f80a38a26)
 
+### Profilim 
+![Image](https://github.com/user-attachments/assets/1ab93967-d117-4f27-94b4-11cbf2f1a894)
+
+### Mesajlaşma İşlemi, Yeni Mesaj Gönderme İşlemi
+![Image](https://github.com/user-attachments/assets/21972e8a-9f40-4423-8cf1-a819cc4acedb)
+![Image](https://github.com/user-attachments/assets/21d1568c-2a11-4681-8de1-49b73969e296)
+![Image](https://github.com/user-attachments/assets/b8ac3fcc-11a4-4e80-b08e-04e03f3bccd4)
+![Image](https://github.com/user-attachments/assets/dfc48432-d812-4cf5-8485-0b20aeecbfda)
+
