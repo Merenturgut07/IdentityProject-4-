@@ -1,0 +1,46 @@
+﻿@model UserEditViewModel
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/TemaLayout/Index.cshtml";
+}
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title"> Profil Bilgilerini Güncelleme Sayfası</h4>
+
+            <form class="forms-sample" method="post" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label for="exampleInputName1">Adınız</label>
+                    <input type="text" class="form-control" asp-for="Name"   placeholder="Ad">
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputName1">Soy Adınız</label>
+                    <input type="text" class="form-control" asp-for="Surname" placeholder="Soyad">
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputPassword4">Şifreniz</label>
+                    <input type="text" class="form-control" asp-for="Password" placeholder="Şifre">
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleInputPassword4">Şifre Tekrarı</label>
+                    <input type="text" class="form-control" asp-for="PasswordConfirm" placeholder="Şifre Tekrarı">
+                </div>
+
+                <div class="form-group">
+                    <label>Resim Seç</label>
+                    <input type="file" asp-for="Picture" >
+
+                </div>
+
+
+                <button type="submit" class="btn btn-primary mr-2">Güncelle</button>
+                <button class="btn btn-light">İptal</button>
+            </form>
+        </div>
+    </div>
+</div>
+

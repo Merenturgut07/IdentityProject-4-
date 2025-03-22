@@ -1,0 +1,26 @@
+﻿
+@model Message
+@{
+    ViewData["Title"] = "SendMessage";
+    Layout = "~/Views/TemaLayout/Index.cshtml";
+}
+
+
+<h1> Yeni  Mesaj Gönderme Sayfası  </h1>
+<br />
+<br />
+<form class="form-group" method="post">
+
+	@Html.Label("Alıcı Mail")
+	@Html.TextBoxFor(x => x.Receiver, new { @class = "form-control" })
+	<br />
+	@Html.Label("Konu")
+	@Html.TextBoxFor(x => x.Subject, new { @class = "form-control" })
+	<br />
+
+	@Html.Label("Mesaj İçeriği")
+	@Html.TextAreaFor(x => x.MessageDetails, 8, 2, new { @class = "form-control" })
+	<br />
+	<button class="btn btn-info">Gönder</button>
+</form>
+

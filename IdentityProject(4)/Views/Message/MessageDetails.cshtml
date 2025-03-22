@@ -1,0 +1,29 @@
+﻿@model Message
+
+
+@{
+	ViewData["Title"] = "MessageDetails";
+	Layout = "~/Views/TemaLayout/Index.cshtml";
+}
+
+
+<h1> Gönderilen Mesajın Detayı </h1>
+<br />
+<br />
+
+<form class="form-group">
+
+	@Html.HiddenFor(x => x.MessageId, new { @class = "form-control" })
+	<br />
+	@Html.Label("Gönderen Adı")
+	@Html.TextBoxFor(x => x.SenderName, new { @class = "form-control" })
+	<br />
+	@Html.Label("Gönderen Mail")
+	@Html.TextBoxFor(x => x.Sender, new { @class = "form-control" })
+	<br />
+	@Html.Label("Mesaj İçeriği")
+	@Html.TextAreaFor(x => x.MessageDetails, 8, 2, new { @class = "form-control" })
+	<br />
+</form>
+
+
