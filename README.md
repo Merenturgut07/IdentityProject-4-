@@ -31,4 +31,6 @@ Bu projeyi geliştirirken N-Tier Architecture (Katmanlı Mimari) prensiplerine t
  Business Layer: İş mantığını kapsar ve Fluent Validation kullanarak veri doğrulama işlemlerini gerçekleştirir.
  Web UI: HTML, CSS ve Bootstrap kullanılarak geliştirilen arayüz, kullanıcı dostu bir deneyim sunmaktadır.
 
+ 
+
 
